@@ -48,9 +48,9 @@ The dashboard presents the data through several key visualizations, including:
 A formal report, titled "Data Analysis Report for the Year 2017," is also included with this project. It provides a detailed, narrative summary of the key findings, insights, and recommendations derived from the dashboard's data for the specific year 2017.
 
 ## 6. Screenshots
-![Dashboard Screenshot](screenshots/Dashboard.JPG)
-![Chart Screenshot](screenshots/1.JPG)
-![Chart Screenshot](screenshots/2.JPG)
+![Dashboard Screenshot](screenshots/dashboard.jpg)
+![Chart Screenshot](screenshots/1.jpg)
+![Chart Screenshot](screenshots/2.jpg)
 ![Chart Screenshot](screenshots/3.JPG)
 ![Chart Screenshot](screenshots/4.JPG)
 ![Chart Screenshot](screenshots/5.JPG)
