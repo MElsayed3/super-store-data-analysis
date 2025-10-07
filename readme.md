@@ -49,8 +49,8 @@ A formal report, titled "Data Analysis Report for the Year 2017," is also includ
 
 ## 6. Screenshots
 ![Dashboard Screenshot](screenshots/dashboard.png)
-![Chart Screenshot](screenshots/1.png)
-![Chart Screenshot](screenshots/2.png)
-![Chart Screenshot](screenshots/3.png)
-![Chart Screenshot](screenshots/4.png)
-![Chart Screenshot](screenshots/5.png)
+![Chart Screenshot](screenshots/1.JPG)
+![Chart Screenshot](screenshots/2.JPG)
+![Chart Screenshot](screenshots/3.JPG)
+![Chart Screenshot](screenshots/4.JPG)
+![Chart Screenshot](screenshots/5.JPG)
